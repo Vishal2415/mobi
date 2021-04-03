@@ -1,0 +1,63 @@
+.colored-section{
+    background-color:#0278ae;
+}
+
+.icon{
+    color:white;
+}
+
+p{
+color:white;
+}
+.inner-item {
+    text-align: center;
+    img{
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+}
+
+.testimonial-image{
+    height: 300px;
+    width: 600px;
+}
+
+img{
+    margin: 0 auto;
+    padding-top: 30px;
+    border-radius: 10px;
+    }
+}
+
+h5{
+    color:white;
+}
+
+h5 span{
+ background-color:#0278ae;
+ color:white;
+
+}
+
+.normal-img{
+    height: 300px;
+    width: 280px;
+}
+
+.left{
+    margin-left: 460px;
+}
+
+.right{
+    margin-right: 40px;    
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.big{
+    margin-left: 460px;
+}
+

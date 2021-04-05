@@ -11,10 +11,6 @@ color:white;
 }
 .inner-item {
     text-align: center;
-    img{
-        margin: 0 auto;
-        padding-top: 30px;
-    }
 }
 
 .testimonial-image{
@@ -27,7 +23,7 @@ img{
     padding-top: 30px;
     border-radius: 10px;
     }
-}
+
 
 h5{
     color:white;
@@ -59,5 +55,34 @@ h5 span{
 
 .big{
     margin-left: 460px;
+}
+
+#title{
+    text-align: center;
+    margin:auto;
+}
+
+@media (max-width:1028px){
+    .big{
+    margin-left: 29%;
+}
+    .right{
+        margin-right:30%;
+    }
+    .testimonial-image{
+        height: 150px;
+        width: 300px;
+    }
+    .normal-img{
+        height: 150px;
+        width: 140px;
+    }
+    .left{
+        margin-left: 120%;
+    }
+    h5 span{
+        font-size: 20px;
+    }
+
 }
 
